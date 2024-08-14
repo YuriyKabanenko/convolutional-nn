@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+*.ipynb
+*.idx3-ubyte
+*.idx1-ubyte
+dataset/
+__pycache__/
+image_recognition.py
